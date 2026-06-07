@@ -20,7 +20,7 @@
 
 | 方向 | 文档 | 状态 | 原始构思时间 | 简介 |
 |------|------|------|--------------|------|
-| **原始灵感合集** | [origin-ideas-2025-06.md](./origin-ideas-2025-06.md) | 🔮 历史存档 | 2025-06 | 2025年6月凭空冒出的五个构思原文，未经修饰。 |
+| **原始灵感合集** | [origin-ideas-2025-06.md](./origin-ideas-2025-06) | 🔮 历史存档 | 2025-06 | 2025年6月凭空冒出的五个构思原文，未经修饰。 |
 | **多大脑对话** | [multi-brain-dialogue.md](./multi-brain-dialogue.md) | 🧪 部分实验 | 2026-06 | 共享框架、并行读写、循环上限、随机大脑。 |
 | **AI设计AI** | [self-constructing-brains.md](./self-constructing-brains.md) | 🔮 构思中 | 2025-06 | 总大脑自动创建行业小脑，递归生成。 |
 | **行业大脑与总监** | [industry-brains-director.md](./industry-brains-director.md) | 🧪 部分实验 | 2026-06 | 行业专家群、总监拆解任务、品牌模式、用户联想。 |
