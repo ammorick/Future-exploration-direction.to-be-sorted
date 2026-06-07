@@ -21,12 +21,12 @@
 | 方向 | 文档 | 状态 | 原始构思时间 | 简介 |
 |------|------|------|--------------|------|
 | **原始灵感合集** | [origin-ideas-2025-06.md](./origin-ideas-2025-06.md) | 🔮 历史存档 | 2025-06 | 2025年6月凭空冒出的五个构思原文，未经修饰。 |
-| **多大脑对话** | [multi-brain-dialogue.md](./multi-brain-dialogue.md) | 🧪 部分实验 | 2025-06 | 共享框架、并行读写、循环上限、随机大脑。 |
-| **行业大脑与总监** | [industry-brains-director.md](./industry-brains-director.md) | 🧪 部分实验 | 2025-06 | 行业专家群、总监拆解任务、品牌模式、用户联想。 |
+| **多大脑对话** | [multi-brain-dialogue.md](./multi-brain-dialogue.md) | 🧪 部分实验 | 2026-06 | 共享框架、并行读写、循环上限、随机大脑。 |
 | **AI设计AI** | [self-constructing-brains.md](./self-constructing-brains.md) | 🔮 构思中 | 2025-06 | 总大脑自动创建行业小脑，递归生成。 |
-| **价值体系** | [value-system.md](./value-system.md) | 🔮 构思中 | 2025-06 | 持续学习“为我所用”的价值，价值大脑介入对话。 |
-| **矛盾大脑** | [contradiction-brain.md](./contradiction-brain.md) | ⏸️ 暂缓 | 2025-06 | 检测专家逻辑冲突，仲裁机制（暂缓开发）。 |
-| **安全大脑演化** | [safety-brain-evolution.md](./safety-brain-evolution.md) | 🧪 部分实验 | 2025-06 | 从静态过滤到动态更新、底层嵌入、自检修复。 |
+| **行业大脑与总监** | [industry-brains-director.md](./industry-brains-director.md) | 🧪 部分实验 | 2026-06 | 行业专家群、总监拆解任务、品牌模式、用户联想。 |
+| **价值体系** | [value-system.md](./value-system.md) | 🔮 构思中 | 2026-06 | 持续学习“为我所用”的价值，价值大脑介入对话。 |
+| **矛盾大脑** | [contradiction-brain.md](./contradiction-brain.md) | ⏸️ 暂缓 | 2026-06 | 检测专家逻辑冲突，仲裁机制（暂缓开发）。 |
+| **安全大脑演化** | [safety-brain-evolution.md](./safety-brain-evolution.md) | 🧪 部分实验 | 2026-06 | 从静态过滤到动态更新、底层嵌入、自检修复。 |
 | **地皮级安全** | [ground-safety.md](./ground-safety.md) | 🔮 全新构思 | 2026-06 | 从输入空间根本性约束不安全内容，挑战“围栏”范式。 |
 | **已放弃的思考** | [abandoned-ideas.md](./abandoned-ideas.md) | ⚰️ 存档 | 2025-06 | AI意识等因安全风险主动放弃的方向。 |
 
@@ -44,15 +44,14 @@
 ```
 2025-06 原始构想（五颗种子）
 │
-├─→ 多大脑协作 ──┬─→ 共享框架、循环上限、随机大脑
-├─→ 行业大脑群 ──┼─→ 品牌模式、用户联想、总监优化
-├─→ AI设计AI ──┘ （仍为远期目标）
-├─→ 价值/矛盾/安全 → 细化为草稿图（2026-06）
-└─→ 地皮级安全 （全新的底层范式）
+├─→ 构思一 ──┬─→ 多大脑对话验证信息准确度
+├─→ 构思二 ──┼─→ 拥有多大脑对话提高信息准确度后垂直于个体行业的使用
+├─→ 构思三 ──┘ AI来做AI的员工，AI来生成AI（长远目标）
+├─→ 构思四 → 自我循环发展的动态环境（长远目标）
+├─→ 构思五→放弃
+
 ```
 
-
-所有详细设计草稿图可在 [这里](./design_sketches/) 查看。
 
 ---
 
